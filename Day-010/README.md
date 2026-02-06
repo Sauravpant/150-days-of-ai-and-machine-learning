@@ -16,3 +16,8 @@ Today I explored **Python's logging module**, a robust framework for capturing, 
 - Implemented **handlers** like `StreamHandler` to direct logs to different destinations (console, files, email, etc.)
 - **Logged to files** while simultaneously displaying output in the console for comprehensive monitoring
 - Managed log file modes (`'w'` overwrite, `'a'` append) for different use cases
+- Covered multithreading basics with `threading`, shared data, and race conditions
+- Covered multiprocessing patterns and examples for CPU-bound tasks and isolation
+- Covered a simple web scraping example using requests and HTML parsing
+- Covered logging utilities and basic testing for reusable logger setup
+- Practiced with logging notebooks to observe output formatting and levels
